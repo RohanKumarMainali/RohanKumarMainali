@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RohanKumarMainali
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning ASP .Net Core and DSA
+- 🌱 I’m currently learning MERN stack and DSA
 - 💞️ I’m looking to collaborate on software development which can solve a real world problem
 - 📫 How to reach me .. Mail me at: rohanmainali39@gmail.com
 
