@@ -4,7 +4,7 @@
 - 📫 How to reach me .. [Email Me](mailto:rohanmainali39@gmail.com)
 
 
-![github_cover_banner](https://svg-banners.vercel.app/api?type=glitch&text1=while(live)code();&width=1200&height=200)
+![github_cover_banner](https://svg-banners.vercel.app/api?type=glitch&text1=while(live)learn();&width=1200&height=200)
 
 
 <!-- Statistics -->
