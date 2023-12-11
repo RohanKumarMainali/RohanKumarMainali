@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RohanKumarMainali
 - 👀 I’m interested in Software Engineering
-- 🌱 Currently learning Backend Engineering and DSA
+- 🌱 Currently learning Backend Engineering 
 - 📫 How to reach me .. [Email Me](mailto:rohanmainali39@gmail.com)
 
 
